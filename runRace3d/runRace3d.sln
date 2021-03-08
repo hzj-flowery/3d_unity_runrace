@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "runRace3d", "Assembly-CSharp.csproj", "{24C19DA8-7F43-5877-23AD-8CDFD51BF04A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "runRace3d", "Assembly-CSharp-Editor.csproj", "{E924768D-1574-BF6A-752A-96E2395F31AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C19DA8-7F43-5877-23AD-8CDFD51BF04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C19DA8-7F43-5877-23AD-8CDFD51BF04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C19DA8-7F43-5877-23AD-8CDFD51BF04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C19DA8-7F43-5877-23AD-8CDFD51BF04A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E924768D-1574-BF6A-752A-96E2395F31AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E924768D-1574-BF6A-752A-96E2395F31AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E924768D-1574-BF6A-752A-96E2395F31AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E924768D-1574-BF6A-752A-96E2395F31AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
